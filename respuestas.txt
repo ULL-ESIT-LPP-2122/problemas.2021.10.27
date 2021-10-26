@@ -1,1 +1,29 @@
 Poniendo a punto el gestor de intérpretes de Ruby
+
+
+Respuesta a la pregunta 31.
+
+El grafo de confirmaciones tiene tres nodos.
+Hay tres ramas:
+    1) local main
+    2) local doc
+    3) remota ghp03
+
+
+* commit 6364835c3cb7cb15665b85a688b2a700baffd2e1   <-doc, <-main, <-ghp/03 master
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   Tue Oct 26 15:20:44 2021 +0000
+| 
+|     Creando el fichero de respuestas
+| 
+* commit 3a60003c3dd1bff90c4413628bbfa10fe476f83c
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   Tue Oct 26 15:17:12 2021 +0000
+| 
+|     Creando el fichero README.md
+| 
+* commit 1c4b6fcea919734a70a4f95f2d2414e0fb42901e
+  Author: Coromoto León <cleon@ull.edu.es>
+  Date:   Tue Oct 26 15:14:04 2021 +0000
+  
+      Creando el fichero .gitignore

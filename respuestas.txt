@@ -104,3 +104,8 @@ Ambas ramas doc y main se encuentran apuntando a la última confirmación
   Date:   39 minutes ago
   
       Creando el fichero .gitignore
+
+
+Respuesta a la pregunta 72.
+El intérprete interactivo ejecuta el fichero y termina.
+

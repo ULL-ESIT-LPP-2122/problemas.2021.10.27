@@ -63,3 +63,44 @@ La rama activa apuntada por el HEAD se encuentra en doc.
   Date:   25 minutes ago
   
       Creando el fichero .gitignore
+
+
+Respuesta a la pregunta 49: 
+Ambas ramas doc y main se encuentran apuntando a la última confirmación
+
+
+* commit 78bbfc8 (HEAD -> main, doc)
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   11 minutes ago
+| 
+|     Grafo con Hello World en Ruby añadido
+| 
+* commit eea0244
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   22 minutes ago
+| 
+|     Grafo con la rama doc
+| 
+* commit 4353d4d
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   19 minutes ago
+| 
+|     Creando hola mundo en Ruby
+| 
+* commit 6364835 (ghp03/main)
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   33 minutes ago
+| 
+|     Creando el fichero de respuestas
+| 
+* commit 3a60003
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   36 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 1c4b6fc
+  Author: Coromoto León <cleon@ull.edu.es>
+  Date:   39 minutes ago
+  
+      Creando el fichero .gitignore

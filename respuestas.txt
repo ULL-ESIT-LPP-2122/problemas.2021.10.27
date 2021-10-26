@@ -27,3 +27,39 @@ Hay tres ramas:
   Date:   Tue Oct 26 15:14:04 2021 +0000
   
       Creando el fichero .gitignore
+
+
+Respuesta a la pregunta 42:
+
+La rama activa apuntada por el HEAD se encuentra en doc.
+
+
+* commit 5acca05 (main)
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   4 minutes ago
+| 
+|     Creando hora mundo en Ruby
+|   
+| * commit 97d2f6e (HEAD -> doc)
+|/  Author: Coromoto León <cleon@ull.edu.es>
+|   Date:   7 minutes ago
+|   
+|       Grafo con la rama doc
+| 
+* commit 6364835 (ghp03/main)
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   18 minutes ago
+| 
+|     Creando el fichero de respuestas
+| 
+* commit 3a60003
+| Author: Coromoto León <cleon@ull.edu.es>
+| Date:   22 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 1c4b6fc
+  Author: Coromoto León <cleon@ull.edu.es>
+  Date:   25 minutes ago
+  
+      Creando el fichero .gitignore
